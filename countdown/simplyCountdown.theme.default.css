@@ -53,8 +53,8 @@
   }
 
   .simply-countdown > .simply-section {
-    width: 50px; /* Further reduce width */
-    height: 50px;
+    width: 60px; /* Further reduce width */
+    height: 60px;
     padding: 25px; /* Reduced padding for mobile */
   }
 
