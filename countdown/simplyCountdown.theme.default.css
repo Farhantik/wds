@@ -49,13 +49,13 @@
 @media (max-width: 576px) {
   .simply-countdown {
     flex-direction: row; /* Ensure sections align in a row */
-    gap: 10px; /* Reduced gap for smaller screens */
+    gap: 5px; /* Reduced gap for smaller screens */
   }
 
   .simply-countdown > .simply-section {
     width: 50px; /* Further reduce width */
     height: 50px;
-    padding: 40px; /* Reduced padding for mobile */
+    padding: 35px; /* Reduced padding for mobile */
   }
 
   .simply-countdown > .simply-section .simply-amount {
