@@ -55,7 +55,7 @@
   .simply-countdown > .simply-section {
     width: 50px; /* Further reduce width */
     height: 50px;
-    padding: 35px; /* Reduced padding for mobile */
+    padding: 30px; /* Reduced padding for mobile */
   }
 
   .simply-countdown > .simply-section .simply-amount {
